@@ -1,0 +1,16 @@
+C:\Users\Dzorka Bless\source\repos\dcit318-assignment4-ID\SimpleAddressBook\bin\Debug\net8.0-windows\SimpleAddressBook.exe
+C:\Users\Dzorka Bless\source\repos\dcit318-assignment4-ID\SimpleAddressBook\bin\Debug\net8.0-windows\SimpleAddressBook.deps.json
+C:\Users\Dzorka Bless\source\repos\dcit318-assignment4-ID\SimpleAddressBook\bin\Debug\net8.0-windows\SimpleAddressBook.runtimeconfig.json
+C:\Users\Dzorka Bless\source\repos\dcit318-assignment4-ID\SimpleAddressBook\bin\Debug\net8.0-windows\SimpleAddressBook.dll
+C:\Users\Dzorka Bless\source\repos\dcit318-assignment4-ID\SimpleAddressBook\bin\Debug\net8.0-windows\SimpleAddressBook.pdb
+C:\Users\Dzorka Bless\source\repos\dcit318-assignment4-ID\SimpleAddressBook\obj\Debug\net8.0-windows\SimpleAddressBook.Form1.resources
+C:\Users\Dzorka Bless\source\repos\dcit318-assignment4-ID\SimpleAddressBook\obj\Debug\net8.0-windows\SimpleAddressBook.csproj.GenerateResource.cache
+C:\Users\Dzorka Bless\source\repos\dcit318-assignment4-ID\SimpleAddressBook\obj\Debug\net8.0-windows\SimpleAddressBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dzorka Bless\source\repos\dcit318-assignment4-ID\SimpleAddressBook\obj\Debug\net8.0-windows\SimpleAddressBook.AssemblyInfoInputs.cache
+C:\Users\Dzorka Bless\source\repos\dcit318-assignment4-ID\SimpleAddressBook\obj\Debug\net8.0-windows\SimpleAddressBook.AssemblyInfo.cs
+C:\Users\Dzorka Bless\source\repos\dcit318-assignment4-ID\SimpleAddressBook\obj\Debug\net8.0-windows\SimpleAddressBook.csproj.CoreCompileInputs.cache
+C:\Users\Dzorka Bless\source\repos\dcit318-assignment4-ID\SimpleAddressBook\obj\Debug\net8.0-windows\SimpleAddressBook.dll
+C:\Users\Dzorka Bless\source\repos\dcit318-assignment4-ID\SimpleAddressBook\obj\Debug\net8.0-windows\refint\SimpleAddressBook.dll
+C:\Users\Dzorka Bless\source\repos\dcit318-assignment4-ID\SimpleAddressBook\obj\Debug\net8.0-windows\SimpleAddressBook.pdb
+C:\Users\Dzorka Bless\source\repos\dcit318-assignment4-ID\SimpleAddressBook\obj\Debug\net8.0-windows\SimpleAddressBook.genruntimeconfig.cache
+C:\Users\Dzorka Bless\source\repos\dcit318-assignment4-ID\SimpleAddressBook\obj\Debug\net8.0-windows\ref\SimpleAddressBook.dll
