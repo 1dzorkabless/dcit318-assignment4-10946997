@@ -1,0 +1,16 @@
+C:\Users\Dzorka Bless\source\repos\dcit318-assignment4-ID\MyCanvas\obj\Debug\net8.0-windows\MyCanvas.Form1.resources
+C:\Users\Dzorka Bless\source\repos\dcit318-assignment4-ID\MyCanvas\obj\Debug\net8.0-windows\MyCanvas.csproj.GenerateResource.cache
+C:\Users\Dzorka Bless\source\repos\dcit318-assignment4-ID\MyCanvas\obj\Debug\net8.0-windows\MyCanvas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dzorka Bless\source\repos\dcit318-assignment4-ID\MyCanvas\obj\Debug\net8.0-windows\MyCanvas.AssemblyInfoInputs.cache
+C:\Users\Dzorka Bless\source\repos\dcit318-assignment4-ID\MyCanvas\obj\Debug\net8.0-windows\MyCanvas.AssemblyInfo.cs
+C:\Users\Dzorka Bless\source\repos\dcit318-assignment4-ID\MyCanvas\obj\Debug\net8.0-windows\MyCanvas.csproj.CoreCompileInputs.cache
+C:\Users\Dzorka Bless\source\repos\dcit318-assignment4-ID\MyCanvas\bin\Debug\net8.0-windows\MyCanvas.exe
+C:\Users\Dzorka Bless\source\repos\dcit318-assignment4-ID\MyCanvas\bin\Debug\net8.0-windows\MyCanvas.deps.json
+C:\Users\Dzorka Bless\source\repos\dcit318-assignment4-ID\MyCanvas\bin\Debug\net8.0-windows\MyCanvas.runtimeconfig.json
+C:\Users\Dzorka Bless\source\repos\dcit318-assignment4-ID\MyCanvas\bin\Debug\net8.0-windows\MyCanvas.dll
+C:\Users\Dzorka Bless\source\repos\dcit318-assignment4-ID\MyCanvas\bin\Debug\net8.0-windows\MyCanvas.pdb
+C:\Users\Dzorka Bless\source\repos\dcit318-assignment4-ID\MyCanvas\obj\Debug\net8.0-windows\MyCanvas.dll
+C:\Users\Dzorka Bless\source\repos\dcit318-assignment4-ID\MyCanvas\obj\Debug\net8.0-windows\refint\MyCanvas.dll
+C:\Users\Dzorka Bless\source\repos\dcit318-assignment4-ID\MyCanvas\obj\Debug\net8.0-windows\MyCanvas.pdb
+C:\Users\Dzorka Bless\source\repos\dcit318-assignment4-ID\MyCanvas\obj\Debug\net8.0-windows\MyCanvas.genruntimeconfig.cache
+C:\Users\Dzorka Bless\source\repos\dcit318-assignment4-ID\MyCanvas\obj\Debug\net8.0-windows\ref\MyCanvas.dll
